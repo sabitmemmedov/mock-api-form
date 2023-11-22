@@ -1,0 +1,12 @@
+.form-box{
+    margin: 0 auto;
+    padding: 60px 0;
+    width: 400px;
+}
+
+.btndiv{
+    display: flex;
+    justify-content: center;
+}
+
+
